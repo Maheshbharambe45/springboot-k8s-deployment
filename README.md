@@ -2,6 +2,9 @@
 
 ## Project Overview
 This project demonstrates how to deploy a **Spring Boot application** on a **Kubernetes (K8s) cluster**, ensuring seamless **integration, scalability, and management**.  
+![Website Screenshot](assets/Screenshot%202025-11-08%20201112.png)
+
+Inbound rules for security group
 
  ![Website Screenshot](assets/Screenshot%202025-11-08%20201023.png)
 
